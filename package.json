@@ -1,10 +1,10 @@
 {
-    "name": "kiwi-cli",
+    "name": "pengkiw-cli",
     "version": "1.0.1",
     "description": "simple vue cli",
     "main": "index.js",
     "bin": {
-        "kiwi-cli": "./bin/cli.js"
+        "pengkiw-cli": "./bin/cli.js"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
